@@ -2,6 +2,11 @@ require 'rails_helper'
 
 describe 'navigate' do
   describe 'index' do
+    # before do
+    #   user = User.create(email: "test@test.com", password: "genije76", password_confirmation: "genije76", first_name: "Alex", last_name: "Golub")
+    #   login_as(user, :scope => :user)
+    #   visit posts_path
+    # end
     it 'can be reached successfully' do
       visit posts_path
       expect(page.status_code).to eq(200)
