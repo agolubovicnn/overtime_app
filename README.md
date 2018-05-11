@@ -21,5 +21,8 @@
 - x Icons from glyphicons
 - x Update the styles for forms
 
-## Refactor TODOS:
-- x Refactor 'posts/form' for admin user status
+## TODOS:
+- Integrate validation for phone attribute in User
+  # No spaces or dushes
+  # exactly 10 characters
+  # all characters have to be number
