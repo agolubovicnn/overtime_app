@@ -38,5 +38,6 @@ gem 'administrate'
 gem 'bourbon'
 gem 'pundit'
 gem 'twilio-ruby', '~> 5.7.0'
+gem 'kaminari'
 gem 'dotenv-rails', :groups => [:development, :test]
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
