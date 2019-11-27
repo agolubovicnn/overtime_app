@@ -16,5 +16,13 @@
 - x Email summary to managers for approval
 - x Needs to be documented if employee did not log overtime
 - Create audit log for each text message
+- Need to update end-date when confirmed
+- Need to update audit log status when an overtime rejected
+- Update buttons on employee homepage so they show on mobile
+- Update buttons to include time span
+- Update button sort order on employee homepage
+- Remove unnecessary nav bar buttons for managers
+- Implement Honeybadger error reporting
+- Implement new relic for keeping site live
 
 ## TODOS:
